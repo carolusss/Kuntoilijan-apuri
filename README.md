@@ -56,7 +56,7 @@ computed deterministically in code; the LLM interprets, asks and explains.
 
 ## Roadmap
 
-- [ ] Phase 0 – Foundations
+- [x] Phase 0 – Foundations
 - [ ] Phase 1 – Data layer
 - [ ] Phase 2 – Retrieval (RAG)
 - [ ] Phase 3A – Agent platform
