@@ -1,7 +1,7 @@
-# ADR NNNN: <Title>
+# ADR 0001: <azure-stack>
 
-- **Status:** Proposed | Accepted | Superseded by ADR NNNN
-- **Date:** YYYY-MM-DD
+- **Status:** Accepted
+- **Date:** 2026-10-10
 
 ## Context
 I want to learn more about the Azure-based stack and AI architecture. The AI roles I am targeting build on the Microsoft ecosystem and Azure, so hands-on experience with these services is directly relevant. Currently my best expertise is with the solutions and understanding business use cases. Starting this project, I have good basic understanding of software development, but I want to deepen my understanding in building solutions that are scalable in an enterprise environment. This project aims to fill that knowledge gap. Moreover, this project aims to solve the gap in Microsoft ecosystem and Azure enviroment utilization.
